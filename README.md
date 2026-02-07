@@ -2,6 +2,8 @@
 
 A simple clone of the Mintlify documentation website landing page.
 
+Preview: ![Mintlify Clone Preview](https://ik.imagekit.io/zk9yllrd0/mintlify-clone-rust.vercel.app.png)
+
 ## Description
 
 This project is a static HTML and CSS recreation of the Mintlify website, featuring a responsive navigation bar and hero section.
